@@ -1,2 +1,2 @@
-Custom printf
-this will be edited later
+This is a readme file for project PRINTF
+Done by Shalom and Kingsley
